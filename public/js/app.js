@@ -68732,7 +68732,7 @@ if (false) {} else {
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"base_url":"http://127.0.0.1:8000"}');
+module.exports = JSON.parse('{"base_url":"http://localhost"}');
 
 /***/ })
 
